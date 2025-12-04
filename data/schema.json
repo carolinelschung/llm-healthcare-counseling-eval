@@ -1,0 +1,22 @@
+{
+  "query_id": {
+    "type": "integer",
+    "description": "Unique identifier for each healthcare query."
+  },
+  "patient_query": {
+    "type": "string",
+    "description": "The text of the patient's question seeking health advice."
+  },
+  "category": {
+    "type": "string",
+    "description": "High-level classification of the query (e.g., symptom, medication)."
+  },
+  "source": {
+    "type": "string",
+    "description": "Where the query originated (forum, FAQ, article)."
+  },
+  "submitted_at": {
+    "type": "date",
+    "description": "Date the patient query was submitted."
+  }
+}

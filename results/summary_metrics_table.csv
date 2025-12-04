@@ -1,0 +1,5 @@
+model,avg_flesch_reading_ease,avg_sentiment_score,avg_fairness_score,stance_neutral_pct,avg_factuality_score
+meta-llama/Llama-3.3-70B-Instruct,46.6,1.96,0.66,0.75,3.74
+google_genai.gemini-2.0-flash-001,45.77,1.88,0.71,-1.66,3.81
+openai/gpt-4.1-mini,49.43,1.9,1.35,0.75,3.76
+anthropic/claude-3.7-sonnet,34.27,1.97,0.79,0.15,3.82

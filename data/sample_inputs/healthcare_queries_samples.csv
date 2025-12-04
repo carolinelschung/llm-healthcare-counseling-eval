@@ -1,0 +1,11 @@
+query_id,patient_query,category,source,submitted_at
+1,"I've been feeling dizzy for a few days. Should I see a doctor?",general_symptom,forum,2024-02-10
+2,"What are common side effects of starting a new asthma inhaler?",medication,faq,2024-02-12
+3,"How can I tell if a headache is serious or something mild?",general_symptom,forum,2024-03-01
+4,"Is it normal to feel anxious before a medical test?",mental_health,forum,2024-03-05
+5,"What should I do if I miss a dose of my thyroid medication?",medication,faq,2024-03-09
+6,"How can I manage chronic back pain at home?",pain_management,forum,2024-03-14
+7,"What lifestyle changes help lower high blood pressure?",chronic_condition,forum,2024-03-20
+8,"Are there signs that a cold is turning into something more serious?",general_symptom,article,2024-03-22
+9,"How do I talk to my doctor if I’m nervous about an appointment?",communication_support,forum,2024-03-25
+10,"What should I consider before starting a new treatment for a chronic condition?",chronic_condition,article,2024-03-28
