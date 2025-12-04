@@ -33,12 +33,12 @@ No sensitive or real user data is included. All examples use small, synthetic he
 
 ## Summary of Model Results
 
-| Model | Reading Ease ↑ | Grade Level ↓ | Sentiment ↑ | Fairness ↑ | Stance Neutrality ↑ | Factuality ↑ |
+| Model | Reading Ease | Grade Level | Sentiment | Fairness | Stance Neutrality | Factuality |
 |-------|----------------|----------------|--------------|-------------|----------------------|---------------|
-| **meta-llama/Llama-3.3-70B-Instruct** | 46.6 | 45.23 | 1.96 | 0.66 | **0.75** | 3.74 |
+| **meta-llama/Llama-3.3-70B-Instruct** | 46.6 | 45.23 | 1.96 | 0.66 | 0.75 | 3.74 |
 | **google_genai.gemini-2.0-flash-001** | 45.77 | 46.1 | 1.88 | 0.71 | -1.66 | 3.81 |
-| **openai/gpt-4.1-mini** | **49.43** | **49.78** | 1.90 | **1.35** | **0.75** | 3.76 |
-| **anthropic/claude-3.7-sonnet** | 34.27 | 37.89 | **1.97** | 0.79 | 0.15 | **3.82** |
+| **openai/gpt-4.1-mini** | 49.43 | 49.78 | 1.90 | 1.35 | 0.75 | 3.76 |
+| **anthropic/claude-3.7-sonnet** | 34.27 | 37.89 | 1.97 | 0.79 | 0.15 | 3.82 |
 
 **Interpretation (high-level):**
 - **GPT-4.1-mini** → clearest writing & fair framing  
